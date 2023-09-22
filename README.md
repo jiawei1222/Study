@@ -1,0 +1,2 @@
+# Study
+some technological means
